@@ -1,0 +1,265 @@
+.blinker-thin {
+    font-family: "Blinker", sans-serif;
+    font-style: normal;
+  }
+  
+  .blinker-extralight {
+    font-family: "Blinker", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  .blinker-extra {
+    font-family: "Blinker", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+  }
+  
+  .blinker-light {
+    font-family: "Blinker", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: large;
+  }
+  
+  .blinker-regular {
+    font-family: "Blinker", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+    letter-spacing: 3.8px;
+  }
+  .blinker-reg {
+    font-family: "Blinker", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+  }
+  
+  .blinker-semibold {
+    font-family: "Blinker", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .blinker-bold {
+    font-family: "Blinker", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 3.8px;
+  }
+  
+  .search-icon {
+    border: none; 
+    color:#1f1f1f;
+    
+  }
+
+  .fa-search {
+    height: 0px;
+    width: 0px;
+  }
+
+  .about {
+    text-decoration: none;
+    color: #1f1f1f;
+  }
+  
+.fa-solid {
+  color: #616C6F;
+  cursor: pointer;
+}
+.login {
+  padding: 3px 35px;
+}
+
+.rounded-circle {
+  border: 2px solid white;
+}
+
+.mycolor {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.we {
+  margin-top: -15.86px;
+}
+
+.index {
+  margin-top: 130px;
+}
+
+@media (min-width: 992px) { 
+  .no {
+    padding-left: 250px;
+    padding-right: 250px;  
+  }
+
+  .down{
+    padding-left: 160px; 
+  }
+
+  .downs{
+    padding-right: 180px;
+  }
+
+  .card-img-top{
+    height: 290px;
+  }
+ 
+  .ola{
+    padding-left: 70px;
+  }
+  
+  .olas{
+    padding-right: 70px;
+  }
+  
+  .all{
+    display: none;
+  }
+
+  .account{
+    margin-left: 600px;
+  }
+
+  .races {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  .no {
+    padding-left: 100px;
+    padding-right: 100px; 
+  }
+
+  .down {
+    padding-left: 100px; 
+  }
+
+  .downs {
+    padding-right: 100px; 
+  }
+
+  .card-img-top{
+    height: 190px;
+  }
+
+  .for {
+    padding-left: 15px; 
+    padding-right: 15px;
+  }
+
+  .con{
+    display: none;
+  }
+
+  .race {
+    display: none;
+  }
+
+  .di {
+    display: none;
+  }
+}
+
+@media (min-width: 208px) and (max-width: 771.98px) { 
+  .no {
+    padding-left: 50px;
+    padding-right: 50px; 
+  }
+
+  .none {
+    display: none; 
+  }
+
+  .card{
+    width: 360px;
+    height: 360px;
+  }
+
+  .all{
+    padding-top: 30px;
+  }
+
+  .con{
+    display: none;
+  }
+
+  .for {
+    padding-left: 45px; 
+    padding-right: 45px;
+  }
+
+  .card-img-top {
+    height: 280px;
+  }
+
+  .ro {
+    padding-left: 50px;
+    padding-right: 50px; 
+  }
+
+  .race {
+    display: none;
+  }
+
+  .did {
+    display: none;
+  }
+}
+
+.bg-pri{
+  background-color: #30336B;
+}
+
+.ola{
+  color: #30336B;
+}
+
+
+.bg{
+  background-color: #EAF0F1;
+}
+
+.thick-line {
+  border-bottom: 7px solid black; 
+}
+
+.line{
+  margin-bottom: 210px;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.no-gutters {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+
+footer.no hr {
+  margin-left: -180px;
+  margin-right: -180px;
+}
+
+.thin{
+  font-size: x-small;
+  font-weight: 600;
+}
+
+.hover-text-warning:hover {
+  color: #ffc107; 
+  cursor: pointer;
+}
+
+.week {
+  background: linear-gradient(90deg, #6AB04A 3%, #25CCF7 100%);
+}
+             
+            
